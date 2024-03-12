@@ -1,5 +1,6 @@
 [Русский](https://github.com/olodenm/olodenm/blob/main/README.md)
-# Hi, my name is Denis Makhonov 👋
+
+# Hi, my name is Denis Makhonov 
 
 ### I'm a Data Analyst!
 
