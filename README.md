@@ -1,4 +1,5 @@
-[en](https://github.com/olodenm/olodenm/blob/main/README_en.md)
+[English](https://github.com/olodenm/olodenm/blob/main/README_en.md)
+
 # Привет, меня зовут Махонов Денис 👋
 
 ### Я Аналитик-данных!
