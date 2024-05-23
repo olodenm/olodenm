@@ -14,9 +14,9 @@
    <ul>
        <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/Makhonov_OZON.pdf">Презентация дипломной работы</a></li>
     <br>
-           <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/final_diplom_makhonov.ipynb">OZON</a>:</li>
+           <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/final_diplom_makhonov.ipynb">OZON</a>:
             
-   Анализ продаж, оценок и выручки различных категорий товаров и брендов для выявления ключевых факторов, влияющих на бизнес.
+   Анализ продаж, оценок и выручки различных категорий товаров и брендов для выявления ключевых факторов, влияющих на бизнес.</li>
         </li>
     </ul>
  <li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/PySpark.ipynb">PySpark</a>:
