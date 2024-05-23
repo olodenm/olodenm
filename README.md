@@ -1,4 +1,4 @@
-[Русский](https://github.com/olodenm/olodenm/blob/main/README.md)
+[Русский](https://github.com/olodenm/olodenm/blob/main/README_ru.md)
 
 # Hi, my name is Denis Makhonov 
 
