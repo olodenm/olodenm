@@ -11,6 +11,14 @@
 - BI (Looker, Power BI) 
 
 ## 💼 Portfolio
+   <ul>
+       <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/Makhonov_OZON.pdf">Presentation of thesis</a></li>
+    <br>
+           <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/final_diplom_makhonov.ipynb">OZON</a>:
+            
+ Analyze sales, estimates and revenue of various product categories and brands to identify key factors affecting the business.</li>
+        </li>
+    </ul>
  <li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/PySpark.ipynb">PySpark</a>:
         
 This script provides a full cycle of working with data - from loading and preprocessing to building and evaluating machine learning models, allowing for data analysis of Iris using PySpark.</li>
